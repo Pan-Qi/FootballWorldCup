@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RandomGoalsGenerator
+comment0.text=\r\n\ This\ class\ generate\ random\ goals\ for\ each\ team\ in\ different\ games.\r\n\ Randomly\ distribute\ team\ goals\ to\ players.\r\n\ Generate\ random\ number\ from\ 0\ to\ a\ given\ max\ value.\r\n\r\n\ @author\ (Pan\ Qi)\r\n\ @version\ (20/5/2018)\r\n
+comment1.params=
+comment1.target=RandomGoalsGenerator()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ RandomGoalsGenerator\r\n
+comment2.params=teamGoals
+comment2.target=int\ generatePlayerGoals(int)
+comment2.text=\r\n\ Randomly\ distribute\ team\ goals\ to\ player.\r\n\ \r\n\ @param\ Integer\ which\ is\ the\ goals\ of\ team.\r\n\ @return\ Integer\ which\ is\ goals\ of\ a\ player.\r\n
+comment3.params=rankingDifference
+comment3.target=int\ generateTeamGoals(int)
+comment3.text=\r\n\ Randomly\ generate\ goals\ of\ each\ team\ in\ a\ game.\r\n\ \r\n\ @param\ Integer\ which\ is\ the\ difference\ of\ rankings\ of\ teams\ in\ a\ game.\r\n\ @return\ Integer\ which\ is\ the\ goals\ of\ the\ team.\r\n
+comment4.params=maxValue
+comment4.target=int\ cardGenerator(int)
+comment4.text=\r\n\ Generate\ a\ random\ number\ from\ 0\ to\ max\ value.\r\n\ \r\n\ @param\ Integer\ which\ is\ the\ max\ value\ of\ random\ number.\r\n\ @return\ Integer\ which\ is\ the\ random\ number\ from\ 0\ to\ max\ value.\r\n
+comment5.params=
+comment5.target=int\ randomUpset()
+comment5.text=\r\n\ Randomly\ generate\ a\ upset\ number.\r\n\ \r\n\ @return\ Integer\ which\ is\ the\ upset\ number.\r\n
+numComments=6

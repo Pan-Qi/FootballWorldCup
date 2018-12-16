@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+C:\monash\bluej\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\monash\bluej\lib\bluejcore.jar;C:\monash\bluej\lib\junit-4.11.jar;C:\monash\bluej\lib\hamcrest-core-1.3.jar;C:\monash\bluej\lib\lang-stride.jar;C:\monash\bluej\lib\userlib\pi4j-core.jar;C:\monash\bluej\lib\userlib\pi4j-device.jar;C:\monash\bluej\lib\userlib\pi4j-gpio-extension.jar;C:\monash\bluej\lib\userlib\pi4j-service.jar;C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup
+-d
+C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\Game.java
+<---- end of javadoc command ---->
+Loading source file C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\Game.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\Game.html...
+C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\Game.java:32: warning - @param argument "ArrayList<Team>" is not a parameter name.
+C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\Game.java:587: warning - @param argument "ArrayList<Team>" is not a parameter name.
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\package-frame.html...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\package-summary.html...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\allclasses-frame.html...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\allclasses-noframe.html...
+Generating C:\monash\9131JAVA\29032091_A2\29032091_A2\FootballWorldCup\doc\index.html...
+2 warnings

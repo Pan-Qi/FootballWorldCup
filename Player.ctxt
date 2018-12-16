@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ player\ class\ is\ used\ to\ create\ player\ class\ which\ can\ store\ player's\ name\ and\ number\ of\ goals\r\n\r\n\ @author\ (Pan\ Qi)\r\n\ @version\ (19/05/2018)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Default\ constructor\ Player\ to\ create\ a\ player\ with\ default\ name\ ""\ and\ 0\ goal.\r\n
+comment2.params=playerName\ playerGoals
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ Player\ which\ is\ used\ to\ create\ a\ player.\r\n\ \r\n\ @param\ String\ which\ is\ the\ name\ of\ a\ player.\r\n\ @param\ Integer\ which\ is\ the\ total\ goals\ of\ the\ player.\r\n
+comment3.params=
+comment3.target=int\ getGoals()
+comment3.text=\r\n\ Get\ total\ goals\ of\ player.\r\n\ \r\n\ @return\ Integer\ which\ is\ the\ total\ goals\ of\ player.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Get\ the\ player's\ name.\r\n\ \r\n\ @return\ String\ which\ is\ the\ name\ of\ player.\r\n
+comment5.params=playerGoals
+comment5.target=void\ setGoals(int)
+comment5.text=\r\n\ Set\ the\ goals\ numner\ of\ player.\r\n\ \r\n\ @param\ Integer\ which\ is\ the\ goals\ number\ of\ the\ player.\r\n
+comment6.params=playerName
+comment6.target=void\ setName(java.lang.String)
+comment6.text=\r\n\ Set\ the\ name\ of\ player.\r\n\ \r\n\ @param\ String\ which\ is\ the\ name\ of\ player.\r\n
+numComments=7

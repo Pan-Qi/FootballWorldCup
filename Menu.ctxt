@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ The\ menu\ class\ is\ used\ to\ outprint\ the\ menu\ options\ and\ get\ user's\ choice.\r\n\r\n\ @author\ (Pan\ Qi)\r\n\ @version\ (20/05/2018)\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Default\ constructor\ of\ menu\ class.\r\n
+comment2.params=
+comment2.target=char\ getChoice()
+comment2.text=\r\n\ Get\ user's\ option,when\ option\ invalid\ output\ message\ and\ let\ user\ input\ again.\r\n\ \r\n\ @return\ char\ of\ user's\ option.\r\n
+comment3.params=
+comment3.target=void\ listMenu()
+comment3.text=\r\n\ Output\ menu\ options.\r\n
+numComments=4
